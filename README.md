@@ -48,7 +48,7 @@ UI button panel | 🔜
 3. Copy the long ID nested inside the Drive URL
 
 Example:
-https://drive.google.com/drive/folders/1ABC...XYZ?usp=sharing
+`https://drive.google.com/drive/folders/1ABC...XYZ?usp=sharing`
 Folder ID = `1ABC...XYZ`
 
 ### 2) Go to  
