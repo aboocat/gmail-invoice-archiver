@@ -42,15 +42,13 @@ UI button panel | 🔜
 
 ## Setup (5 minutes)
 
-### 1) Create a Drive folder  
-### 1 a) Get your Drive Folder ID
+### 1 Get your Google Drive Folder ID
 1. Create a folder in Google Drive
-2. Open the folder
-3. Copy the long ID from the URL
+2. Copy URL of the folder
+3. Copy the long ID nested inside the Drive URL
 
 Example:
 https://drive.google.com/drive/folders/1ABC...XYZ?usp=sharing
-
 Folder ID = `1ABC...XYZ`
 
 ### 2) Go to  
