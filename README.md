@@ -43,7 +43,15 @@ UI button panel | 🔜
 ## Setup (5 minutes)
 
 ### 1) Create a Drive folder  
-Example ID: `1SJnBUuUGyX9i16latsggxIhC4Md5hFCd`
+### 1 a) Get your Drive Folder ID
+1. Create a folder in Google Drive
+2. Open the folder
+3. Copy the long ID from the URL
+
+Example:
+https://drive.google.com/drive/folders/1ABC...XYZ?usp=sharing
+
+Folder ID = `1ABC...XYZ`
 
 ### 2) Go to  
 https://script.google.com → **New project**
