@@ -44,7 +44,7 @@ UI button panel | 🔜
 
 ### 1 Get your Google Drive Folder ID
 1. Create a folder in Google Drive
-2. Copy URL of the folder
+2. Copy URL of the folder and paste into any text editor
 3. Copy the long ID nested inside the Drive URL
 
 Example: `https://drive.google.com/drive/folders/1ABC...XYZ?usp=sharing`
