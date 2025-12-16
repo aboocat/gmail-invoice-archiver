@@ -41,10 +41,11 @@ UI button panel | 🔜
 - Name it: **Invoices Archive**
 - Open it and copy the ID from your browser URL
 
-Example URL:  
-    https://drive.google.com/drive/folders/1SJnBUuUGyX9i16latsggxIhC4Md5hFCd?usp=drive_link  
-Folder ID =  
-    1SJnBUuUGyX9i16latsggxIhC4Md5hFCd
+Example URL (fake):
+    https://drive.google.com/drive/folders/1A2B3C4D5E6F7G8H9I0_example_folder_id?usp=sharing
+
+Folder ID (fake):
+    1A2B3C4D5E6F7G8H9I0_example_folder_id
 
 Folder location example:
 
